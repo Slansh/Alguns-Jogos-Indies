@@ -1,4 +1,4 @@
-# Projeto de Lista de Jogos Indie
+# Projeto de Lista de Jogos Indie - Imersão dev com Google Gemini
 
 ## Descrição
 Descubra a Próxima Joia Indie!
@@ -11,7 +11,7 @@ Apoie desenvolvedores independentes: Ao explorar nossa lista, você está ajudan
 
 ## Tecnologias Utilizadas
 * **HTML:** Estrutura da página web
-* **CSS:** Estilização da página (arquivo `style.css` não mostrado)
+* **CSS:** Estilização da página 
 * **JavaScript:** Lógica para a pesquisa e manipulação do DOM
 
 ## Funcionamento
