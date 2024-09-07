@@ -6,7 +6,7 @@ function pesquisar() {
     
     //se o campo for for ums string vazia, sem nada, sem vida
     if(campoPesquisa == ""){
-      section.innerHTML = "<p>Nenhum jogo foi encontrado (BAKA)!</p>"
+      section.innerHTML = "<p>Nenhum jogo foi encontrado</p>"
       return
     }
     campoPesquisa = campoPesquisa.toLowerCase();
@@ -37,9 +37,6 @@ function pesquisar() {
         </div>
       `;
        
-    }
-    if(!resultados ) {
-      resultados = "<p>Nenhum jogo foi encontrado (BAKA)!</p>"
     }
     // Atribui o HTML gerado à seção de resultados
     section.innerHTML = resultados;
