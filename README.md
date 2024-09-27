@@ -1,4 +1,4 @@
-# Projeto de Lista de Jogos Indie - Imersão dev com Google Gemini
+# Projeto de Lista de Jogos Indie
 
 ## Descrição
 Descubra a Próxima Joia Indie!
